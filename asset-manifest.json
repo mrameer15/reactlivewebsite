@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/reactlivewebsite/static/css/main.0a5189ed.css",
+    "main.js": "/reactlivewebsite/static/js/main.96af8a75.js",
+    "static/media/img1.png": "/reactlivewebsite/static/media/img1.b0c131a8bd221ee1355e.png",
+    "static/media/software.jpg": "/reactlivewebsite/static/media/software.cca3d6491bf8b68746f5.jpg",
+    "static/media/andriod.jpg": "/reactlivewebsite/static/media/andriod.b066efcc653316ea4ac6.jpg",
+    "static/media/office.jpg": "/reactlivewebsite/static/media/office.24abe6cc5fc3a318ba95.jpg",
+    "static/media/digital.jpg": "/reactlivewebsite/static/media/digital.6f98876707da69422b59.jpg",
+    "index.html": "/reactlivewebsite/index.html",
+    "main.0a5189ed.css.map": "/reactlivewebsite/static/css/main.0a5189ed.css.map",
+    "main.96af8a75.js.map": "/reactlivewebsite/static/js/main.96af8a75.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a5189ed.css",
+    "static/js/main.96af8a75.js"
+  ]
+}
